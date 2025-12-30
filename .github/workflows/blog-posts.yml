@@ -18,4 +18,5 @@ jobs:
         with:
           feed_list: "https://www.sanjusapkota.com.np/feeds/posts/default?alt=rss"
           max_post_count: 5
+          template: "$newline- [ $title ]($url) ($date)"
           readme_path: "./README.md" # This tells the bot EXACTLY which file to fix
