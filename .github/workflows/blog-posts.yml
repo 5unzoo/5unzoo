@@ -1,13 +1,16 @@
 name: Latest Blog Posts Workflow
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch: # Allows you to run it manually
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: Gives the bot permission to edit the file
     steps:
       - name: Checkout
         uses: actions/checkout@v4
