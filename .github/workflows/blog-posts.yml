@@ -1,16 +1,15 @@
 name: Latest Blog Posts Workflow
 on:
   schedule:
-    # Runs every 12 hours
     - cron: '0 */12 * * *'
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Important: Gives the bot permission to edit the file
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,3 +18,4 @@ jobs:
         with:
           feed_list: "https://www.sanjusapkota.com.np/feeds/posts/default?alt=rss"
           max_post_count: 5
+          readme_path: "./README.md" # This tells the bot EXACTLY which file to fix
