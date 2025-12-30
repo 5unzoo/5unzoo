@@ -1,7 +1,7 @@
 # 5unzoo | Beyond the Hype 🚀
 
-Exploring the hidden environmental, economic, and human realities of tech. 
+Welcome to my profile! I write about the hidden realities of technology.
 
-## ✍️ Latest from the Blog
+## ✍️ My Latest Blog Posts
 ---
-[Visit 5unzoo.com.np](https://www.sanjusapkota.com.np/)
+🔗 Visit my blog: [sanjusapkota.com.np](https://www.sanjusapkota.com.np/)
