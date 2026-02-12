@@ -1,8 +1,8 @@
 ## ✍️ My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ Samsung Confirms Galaxy S26 Launch: Privacy Tech vs. The Silicon Ceiling ](https://www.sanjusapkota.com.np/2026/02/samsung-s26-launch-event.html) (Wed Feb 11 2026 2:34 PM)
-- [ The Solid-State Battery Scam of 2026 | 5unzoo ](https://www.sanjusapkota.com.np/2026/02/the-solid-state-battery-scam-of-2026.html) (Mon Feb 02 2026 7:09 AM)
-- [ Auditor’s Deep-Dive: The Bio-Mechanical Evolution of Mobile Networks &lpar;1G to 7G&rpar; ](https://www.sanjusapkota.com.np/2026/01/evolution-of-mobile-networks.html) (Thu Jan 29 2026 2:15 PM)
-- [ Domain Ownership Audit: the &#39;Free&#39; Domain Trap | 5UNZOO ](https://www.sanjusapkota.com.np/2026/01/hidden-truth-of-domains-and-danger-of-free-domains.html) (Thu Jan 29 2026 1:45 PM)
-- [ How to Actually Disappear: A Technical Audit of Private Modes and Encryption | 5unzoo ](https://www.sanjusapkota.com.np/2026/01/the-reality-of-private-mode-and-e2e-encryption.html) (Thu Jan 29 2026 12:13 PM)<!-- BLOG-POST-LIST:END -->
+- [ Aerobic Exercise vs. Mental Health Treatments &lpar;2026 Update&rpar; ](https://www.sanjusapkota.com.np/2026/02/aerobic-exercise-vs-mental-health.html) (Thu Feb 12 2026 9:21 AM)
+- [ U.S. Labor Market Rebounds in January 2026 with 130,000 New Jobs; Unemployment Dips to 4.3% ](https://www.sanjusapkota.com.np/2026/02/us-labor-market-rebounds-in-january.html) (Thu Feb 12 2026 9:13 AM)
+- [ ICC T20 World Cup 2026: India vs. Namibia - Where to stream? ](https://www.sanjusapkota.com.np/2026/02/icc-t20-world-cup-2026-india-vs-namibia.html) (Thu Feb 12 2026 5:24 AM)
+- [ Olympic Silver for Chock and Bates: A Night of Redemption and Heartbreak ](https://www.sanjusapkota.com.np/2026/02/olympic-silver-for-chock-and-bates.html) (Thu Feb 12 2026 5:06 AM)
+- [ Samsung Confirms Galaxy S26 Launch: Privacy Tech vs. The Silicon Ceiling ](https://www.sanjusapkota.com.np/2026/02/samsung-s26-launch-event.html) (Wed Feb 11 2026 2:34 PM)<!-- BLOG-POST-LIST:END -->
